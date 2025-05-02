@@ -75,7 +75,7 @@ if (isset($_POST['submit'])) {
                 </div>
                 <div class="sb-sidenav-footer">
                     <div class="small">Logged in as:</div>
-                    Muhammad Ja'far Shodiq
+                    Ahmad Dul 
                 </div>
             </nav>
         </div>
